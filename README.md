@@ -66,17 +66,17 @@ Lab7Web_PHP/
 - **Latihan 2:** Menghitung nilai akhir dari tugas, UTS, dan UAS, kemudian menentukan predikat.
 - ![Latihan 2](ss2.png)
 - **Latihan 3:** Menampilkan daftar nama mahasiswa menggunakan array dan `foreach`.
-- ![Latihan 3](ss3%281%29.png)
+- ![Latihan 3](ss3.png)
 - **Latihan 4:** Menggunakan function untuk menghitung harga setelah diskon dan luas persegi panjang.
-- ![Latihan 4](ss4%281%29.png)
+- ![Latihan 4](ss4.png)
 - **Latihan 5:** Mengirim kata kunci menggunakan metode GET dan menampilkannya kembali.
-- ![Latihan 5](ss5%281%29.png)
+- ![Latihan 5](ss5.png)
 - **Latihan 6:** Menerima nama dan program studi menggunakan metode POST.
-- ![Latihan 6](ss6%282%29.png)
 - ![Form Mahasiswa](ss6.png)
+- ![Latihan 6](ss6%282%29.png)
 - **Latihan 7:** Menghitung subtotal transaksi dari nama barang, harga, dan jumlah.
-- ![Ringkasan Transaksi](ss7%282%29.png)
 - ![Form Transaksi](ss7.png)
+- ![Ringkasan Transaksi](ss7%282%29.png)
 
 ## Pengujian Input
 ### Contoh input valid
