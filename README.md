@@ -62,21 +62,21 @@ Lab7Web_PHP/
 
 ## Ringkasan Hasil Praktikum
 - **Latihan 1:** Menampilkan teks bahwa PHP berhasil dijalankan dan waktu server.
-- ![ss1](ss/ss1.png)
+- ![Gambar 1](ss/ss1.png)
 - **Latihan 2:** Menghitung nilai akhir dari tugas, UTS, dan UAS, kemudian menentukan predikat.
-- ![ss2](ss/ss2.png)
+- ![Gambar 2](ss/ss2.png)
 - **Latihan 3:** Menampilkan daftar nama mahasiswa menggunakan array dan `foreach`.
-- ![ss3](ss/ss3.png)
+- ![Gambar 3](ss/ss3.png)
 - **Latihan 4:** Menggunakan function untuk menghitung harga setelah diskon dan luas persegi panjang.
-- ![ss4](ss/ss4.png)
+- ![Gambar 4](ss/ss4.png)
 - **Latihan 5:** Mengirim kata kunci menggunakan metode GET dan menampilkannya kembali.
-- ![ss5](ss/ss5.png)
+- ![Gambar 5](ss/ss5.png)
 - **Latihan 6:** Menerima nama dan program studi menggunakan metode POST.
-- ![ss6](ss/ss6.png)
-- ![ss7](ss/ss6(2).png)
+- ![Gambar 6](ss/ss6.png)
+- ![Gambar 7](ss/ss6(2).png)
 - **Latihan 7:** Menghitung subtotal transaksi dari nama barang, harga, dan jumlah.
-- ![ss8](ss/ss7.png)
-- ![ss9](ss/ss7(2).png)
+- ![Gambar 8](ss/ss7.png)
+- ![Gambar 9](ss/ss7(2).png)
 
 ## Pengujian Input
 ### Contoh input valid
